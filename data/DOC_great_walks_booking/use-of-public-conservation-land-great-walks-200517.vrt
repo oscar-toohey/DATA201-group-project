@@ -1,0 +1,12 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="use-of-public-conservation-land-great-walks-200517">
+    <SrcDataSource relativeToVRT="1">use-of-public-conservation-land-great-walks-200517.csv</SrcDataSource>
+    <FeatureCount>25098</FeatureCount>
+    <Field name="great_walk" src="great_walk" type="String" />
+    <Field name="seasonality" src="seasonality" type="String" />
+    <Field name="hut_or_campsite" src="hut_or_campsite" type="String" />
+    <Field name="measure" src="measure" type="String" />
+    <Field name="date" src="date" type="String" />
+    <Field name="count" src="count" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>
