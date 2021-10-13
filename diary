@@ -1,6 +1,12 @@
-Week 1:
+
 Oscar - created a repository for the group project 
 	created notebook for the group
-   
-09/10 - Jamie - Imported and looked at the StatsNZ DOC great walk bookings data.
+
+Group - original idea: comparing great walks, covid, tourism and weather
+
+Seth - Tried scraping tourism data using the stats nz ami but it wouldnt work properly, also tried scraping from the webpage but it would not play ball
+ 
+Jamie - Imported and looked at the StatsNZ DOC great walk bookings data.
                 Started manipulating the data (Made it wide, looked at overbooking)
+                
+Group - gave up on original idea of comparing great walks with tourism, weather, and covid and decided on doing comparing the CPI and shipping costs with covid  
