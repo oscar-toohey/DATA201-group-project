@@ -29,4 +29,5 @@ git switch `<branch` // Bach take care of merge
 
 # Link
 
-Doc: https://docs.google.com/document/d/1E7zqmokU7tKpq_YnXKeUQdhKbzX2vLZdduO02A29GZM/edit
+Doc: https://docs.google.com/document/d/1D5eIZkpPxW9urZaHMtsAuvRWdqVGmOccp6IX3roZ8hY/edit?usp=sharing
+Powerpoint: https://docs.google.com/presentation/d/1swyFRkLYna84bmobwo7BLtXWC5rVEGi6MEqb4WffW4Y/edit?usp=sharing
