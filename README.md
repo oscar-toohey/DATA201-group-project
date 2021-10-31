@@ -51,3 +51,11 @@ This column contains the day of the row<br>
 `Trade`:<br>This column tells whether the specific row is an import or export<br>
 `Gross_Weight_kt`:<br>This column contains the gross weight of the shipment in kilotonnes<br>
 `NZD_Value_mil`:<br>This column contains the total value of the shipment in millions of dollars<br>
+
+
+`Covid predictors long CSV`:<br>
+This is the final dataset containing all of our wrangled data from 2016 onwards in one long csv.
+
+>`Date`:<br>The date of the end of the period for each data type. (CPI values - Quarterly, Trade values - Monthly, Covid cases - Weekly)<br>
+`key`:<br>Indicates what type of data the value is refering to.<br>
+`value`:<br> The value of the data type.<br>

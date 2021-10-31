@@ -15,7 +15,6 @@ Jamie - Imported and looked at the StatsNZ DOC great walk bookings data. Started
 
 
 7th October:
-
 Angus - Joined the group
 
 
@@ -55,6 +54,20 @@ Seth - Worked on the report
 Angus, Oscar - Worked on showing raw data to wrangled data in the presentation
 
 Bach, Jamie - Worked on combining each of the datasets and comparing and contrasting between covid data and our predictors
+
+
+25th October:
+Seth - Created a Readme for the github repo
+
+Jamie - Added more comments to the final notebook, added accurate scaling for the final graphs
+
+Bach - Fixed plot saving function to accurately display the graphs
+
+
+26th October:
+Oscar, Angus - Finalised the presentation and report
+ALL - Presented
+
 
 
 # Git terminal command
